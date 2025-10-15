@@ -1,142 +1,112 @@
-<div align="center">
-  <br />
-    <a href="https://www.youtube.com/watch?v=E-fdPfRxkzQ" target="_blank">
-      <img src="public/images/readme.png" alt="Project Banner">
-    </a>
-  <br />
+🚀 Wahid Husain – Interactive 3D Portfolio Website
 
-  <div>
-    <img src="https://img.shields.io/badge/-Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  </div>
+Welcome to my Interactive 3D Portfolio, a modern web experience built with React and Three.js that showcases my skills, projects, and creativity.
 
-  <h3 align="center">Interactive 3D Portfolio Website</h3>
+🌐 Live Site: https://wahidhusaindev.github.io/wahid-portfolio/
 
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
-</div>
+📧 Contact: wahidhusaindev@gmail.com
 
-## 📋 <a name="table">Table of Contents</a>
+📋 Table of Contents
 
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🔗 [Assets & Snippets](#links)
-6. 🚀 [More](#more)
+🤖 Introduction
 
-## ⚠️ Tutorial
+⚙️ Tech Stack
 
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>.
+🔋 Features
 
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
+🤸 Quick Start
 
-<a href="https://www.youtube.com/watch?v=E-fdPfRxkzQ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
+🔗 Assets & Snippets
 
-## <a name="introduction">🤖 Introduction</a>
+🚀 More
 
-The 3D Portfolio project is a highly engaging personal website that features animated 3D scenes, smooth camera transitions, interactive model showcases, and responsive design. It’s ideal for developers, designers, or freelancers looking to stand out in the digital crowd.
+🤖 Introduction
 
-If you're getting started and need assistance or face any bugs, join our active Discord community with over **50k+** members. It's a place where people help each other out.
+This 3D Portfolio project is a dynamic and interactive personal website featuring:
 
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
+3D scenes and model showcases
 
-## <a name="tech-stack">⚙️ Tech Stack</a>
+Smooth animations and transitions
 
-- Three.js
-- React Three Fiber
-- Drei
-- GSAP
-- Tailwind CSS
-- Vite
-- React 19
+A fully responsive design across devices
 
-## <a name="features">🔋 Features</a>
+It’s designed to represent me — Wahid Husain, a passionate developer focused on creating high-quality, visually engaging web experiences.
 
-### Features of the 3D Portfolio Project
+⚙️ Tech Stack
 
-👉 Animated 3D models and reveal animations
+Three.js
 
-👉 Realistic lighting and shadows
+React Three Fiber
 
-👉 GSAP-powered scroll interactions
+Drei
 
-👉 Responsive design with Tailwind CSS and Flexbox/Grid
+GSAP
 
-👉 Micro Interactions
+Tailwind CSS
 
-👉 Multi-section layout (About, Projects, Contact)
+Vite
 
-👉 Mobile optimized 3D experience
+React 19
 
-and many more, including code architecture and reusability.
+🔋 Features
 
-## <a name="quick-start">🤸 Quick Start</a>
+🎨 Animated 3D models with reveal animations
 
-Follow these steps to set up the project locally on your machine.
+💡 Realistic lighting and shadows
 
-**Prerequisites**
+🔁 Smooth scroll and camera transitions (GSAP-powered)
 
-Make sure you have the following installed on your machine:
+📱 Responsive design with Tailwind CSS
 
-- [Git](https://git-scm.com/)
-- [Node.js](https://nodejs.org/en)
-- [npm](https://www.npmjs.com/) (Node Package Manager)
+⚡ Optimized performance and lightweight build
 
-**Cloning the Repository**
+🧩 Modular code structure for scalability
 
-```bash
-git clone https://github.com/adrianhajdin/3d-portfolio.git
-cd 3d-portfolio
-```
+💬 Contact form with EmailJS integration
 
-**Installation**
+🤸 Quick Start
+Prerequisites
 
-Install the project dependencies using npm:
+Make sure you have the following installed:
 
-```bash
+Git
+
+Node.js
+
+npm
+
+Clone the Repository
+git clone https://github.com/Wahidhusaindev/wahid-portfolio.git
+cd wahid-portfolio
+
+Install Dependencies
 npm install
-```
 
-**Set Up Environment Variables**
+Set Up Environment Variables
 
-Create a new file named `.env` in the root of your project and add the following content:
+Create a .env file in the project root and add:
 
-```env
 VITE_APP_EMAILJS_SERVICE_ID=
 VITE_APP_EMAILJS_TEMPLATE_ID=
 VITE_APP_EMAILJS_PUBLIC_KEY=
-```
 
-Replace the placeholder values with your actual **[EmailJS](https://www.emailjs.com/)** credentials.
 
-**Running the Project**
+Add your EmailJS credentials to enable the contact form.
 
-```bash
+Run the Project
 npm run dev
-```
-
-Open [http://localhost:5173](http://localhost:5173/) in your browser to view the project.
 
 
-## <a name="links">🔗 Assets and Snippets</a>
+Then open http://localhost:5173
+ in your browser.
 
-Assets and snippets used in the project can be found in the **[video kit](https://jsm.dev/pfolio25-kit)**.
+🔗 Assets & Snippets
 
-<a href="https://jsm.dev/pfolio25-kit" target="_blank">
-  <img src="public/images/readme-video-kit.png" alt="Video Kit Banner">
-</a>
+All assets and models used in this project are stored under the /public directory.
+You can customize images, models, and textures as per your portfolio’s theme.
 
+🚀 More
 
-## <a name="more">🚀 More</a>
+This project is part of my personal developer journey — constantly evolving with new features, performance improvements, and design refinements.
 
-**Advance your skills with JSM Pro Courses**
-
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with
-detailed explanations, cool features, and exercises to boost your skills. Give it a go!
-
-<a href="https://beta.jsmastery.pro/" target="_blank">
-  <img src="public/images/readme-bottom.png" alt="Project Banner">
-</a>
+💼 Created by: Wahid Husain
