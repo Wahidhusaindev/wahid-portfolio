@@ -98,7 +98,7 @@ npm run dev
 
 
 Then open http://localhost:5173
- in your browser.
+ in your browser..
 
 🔗 Assets & Snippets
 
